@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💻 I'm a computer engineering student at University of Sannio (Benevento, Italy 🇮🇹).
 
-- 🌱 I’m currently learning microservices development with JS/ES6, Node.js, Express.js, GraphQL and MongoDB.
+- 🌱 I’m currently learning mobile app development with React Native.
 
 - I ♥️ open source development.
 
