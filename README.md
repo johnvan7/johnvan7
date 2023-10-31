@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 💻 I'm a computer engineering student at University of Sannio (Benevento, Italy 🇮🇹).
+- 💻 Computer engineering student 🇮🇹.
 
-- 🌱 I’m currently learning mobile app development with React Native.
+- 🌱 MERN Stack.
 
-- I ♥️ open source development.
+- ♥️ open source.
 
 ### 🧞‍♂ My Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=johnvan7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
