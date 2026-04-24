@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 - 💻 Software engineer 🇮🇹.
 
 - ♥️ open source.
 
-## Contributions 🧑🏻‍💻
+### Contributions 🧑🏻‍💻
 
 - dex IdP (check this [PR](https://github.com/dexidp/dex/pull/3777))
 
